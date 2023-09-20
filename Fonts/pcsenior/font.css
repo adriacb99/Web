@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'pcsenior';
+	src: url('./pcsenior.eot');
+	src: local('pcsenior'), url('./pcsenior.woff') format('woff'), url('./pcsenior.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_874">Text with this font applied</p> */
+.fontsforweb_fontid_874 {
+	font-family: 'pcsenior' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

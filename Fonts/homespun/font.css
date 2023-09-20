@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'homespun';
+	src: url('./homespun.eot');
+	src: local('homespun'), url('./homespun.woff') format('woff'), url('./homespun.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_857">Text with this font applied</p> */
+.fontsforweb_fontid_857 {
+	font-family: 'homespun' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

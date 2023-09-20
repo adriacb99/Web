@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'aesymatt';
+	src: url('./aesymatt.eot');
+	src: local('aesymatt'), url('./aesymatt.woff') format('woff'), url('./aesymatt.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_876">Text with this font applied</p> */
+.fontsforweb_fontid_876 {
+	font-family: 'aesymatt' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
